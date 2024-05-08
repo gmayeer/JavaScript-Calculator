@@ -1,2 +1,2 @@
-# Calculadora em JavaScript
- Calculadora integrada na web desenvolvida a partir de JavaScript
+# JavaScript Calculator
+ Web calculator developped in JavaScript by Gabriel Mayer Clary
